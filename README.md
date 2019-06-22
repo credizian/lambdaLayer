@@ -1,2 +1,2 @@
-# lambdaLayer
-Lambda Layers pre-built for easy import
+# AWS Lambda Layers
+Here are layers pre-zipped for easy import to AWS Lambda.
